@@ -1,0 +1,1 @@
+java -cp .:./lib/*:./conf com.main.StartMain 2>&1 &
